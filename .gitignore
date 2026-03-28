@@ -1,0 +1,12 @@
+node_modules
+package-lock.json
+dist
+downloads/
+Releases/
+certs/
+*.exe
+*.AppImage
+*.deb
+*.dmg
+.vercel
+# .env*.local
